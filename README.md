@@ -10,14 +10,11 @@ Skills: JAVA / KOTLIN / SPRING / SQL / JS / HTML / CSS
 
 
 - 🌱 Atualmente estou aprendendo Desenvolvimento Android 
-- 👯 Estou procurando formas colaborar com o crescimento da comunidade Dev, passar conhecimento e gerar valor
-- 🤔 Estou procurando ajuda com ideias de projetos em que possa colaborar e aprender 
+- 👯 Estou procurando formas colaborar com o crescimento da comunidade Dev, aprendendo e passando conhecimento
 - 💬 Me pergunte sobre Programação, Finanças, Marketing e Produtividade
 - 📫 Como entrar em contato comigo: falecommarlonreis@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/expoilderk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marlonreismdesa/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/marlonrmds/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=expoilderk)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=expoilderk&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=expoilderk)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=expoilderk&show_icons=true)  
