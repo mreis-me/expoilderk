@@ -1,12 +1,11 @@
 ### Bem-vindo ao meu Github 👋
-#### Meu nome é Marlon Reis, sou um programador iniciante e apaixonado por temas como tecnologia, finanças, marketing e produtividade...    Aaah é, e eu amo Café.
-![Meu nome é Marlon Reis, sou um programador iniciante e apaixonado por temas como tecnologia, finanças, marketing e produtividade...    Aaah é, e eu amo Café.](https://media1.tenor.com/images/7408f52eddf8ba25554d56b8b0c84207/tenor.gif?itemid=16426669)
+#### Sou um programador iniciante, formando em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, inovação e outros temas como finanças, marketing e produtividade.
 
-Tenho feito uma busca por conhecimento em Tecnologia e demais áreas e fico fascinado pelas inúmeras possibilidades que ela nos trás, gosto de aprender sobre educação financeira e investimentos, marketing e design e até mesmo produtividade e saúde emocional. Acredito que o conhecimento desses temas podem me tornar um profissional em "T", como tem sido muito falado na comunidade Dev e que essa busca trás uma certa convexidade para cada decisão profissional e pessoal que eu tomar.
+Tive a primeira experiência em tecnologia ainda bem jovem na área de infraestrutura e atualmente busco oportunidade em desenvolvimento.
 
-Aqui vou estar compartilhando o que descobrir e aprender nessa jornada..
+Estou em aprendizado continuo, buscando absorver e passar conhecimento em tecnologia e outros temas que podem me levar a ser um profissional com um perfil em "T", tendo conhecimento aprofundado em alguns temas e cada vez mais diversificado em outros.
 
-Skills: JAVA / KOTLIN / SPRING / SQL / JS / HTML / CSS 
+Skills: JAVA / KOTLIN / FLUTTER / SPRING / SQL / JS / HTML / CSS
 
 
 - 🌱 Atualmente estou aprendendo Desenvolvimento Android 
