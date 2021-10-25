@@ -8,8 +8,8 @@ Estou em aprendizado continuo, buscando absorver e passar conhecimento em tecnol
 Skills: JAVA / KOTLIN / FLUTTER / SPRING / SQL / JS / HTML / CSS
 
 
-- 🌱 Atualmente estou aprendendo Desenvolvimento Android 
-- 👯 Estou procurando formas colaborar com o crescimento da comunidade Dev, aprendendo e passando conhecimento
+- 🌱 Atualmente estou aprendendo Desenvolvimento Mobile 
+- 👯 Estou procurando por projetos Open Source para me envolver e ajudar a comunidade
 - 💬 Me pergunte sobre Programação, Finanças, Marketing e Produtividade
 - 📫 Como entrar em contato comigo: falecommarlonreis@gmail.com 
 
