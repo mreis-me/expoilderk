@@ -1,19 +1,34 @@
 ### Bem-vindo ao meu Github 👋
 #### Sou um programador iniciante, formando em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, inovação e outros temas como finanças, marketing e produtividade.
 
-Tive a primeira experiência em tecnologia ainda bem jovem na área de infraestrutura e atualmente busco oportunidade em desenvolvimento.
+#### Estou em aprendizado contínuo, buscando absorver e passar conhecimento em tecnologia e outros temas que podem me levar a ser um profissional com um perfil cada vez mais dinâmico e pronto para novos desafios que o mundo da tecnologia propõe.
 
-Estou em aprendizado continuo, buscando absorver e passar conhecimento em tecnologia e outros temas que podem me levar a ser um profissional com um perfil em "T", tendo conhecimento aprofundado em alguns temas e cada vez mais diversificado em outros.
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Expo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Expo-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Expo-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Expo-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  <img align="center" alt="Expo-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="Expo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Expo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Expo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
-Skills: JAVA / KOTLIN / FLUTTER / SPRING / SQL / JS / HTML / CSS
+##
 
-
-- 🌱 Atualmente estou aprendendo Desenvolvimento Mobile 
-- 👯 Estou procurando por projetos Open Source para me envolver e ajudar a comunidade
-- 💬 Me pergunte sobre Programação, Finanças, Marketing e Produtividade
-- 📫 Como entrar em contato comigo: falecommarlonreis@gmail.com 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marlonreismdesa/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/marlonrmds/)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=expoilderk)](https://github.com/anuraghazra/github-readme-stats)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=expoilderk&show_icons=true)  
+<div align="center">
+  <a href="https://github.com/expoilderk">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=expoilderk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=expoilderk&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+   
+##
+  
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/marlonreismdesa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:falecommarlonreis@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/omaarlonreis" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+  ![Snake animation](https://github.com/expoilderk/expoilderk/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
