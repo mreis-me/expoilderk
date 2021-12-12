@@ -1,7 +1,7 @@
 ### Bem-vindo ao meu Github 👋
 #### Sou um programador iniciante, formando em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, inovação e outros temas como finanças, marketing e produtividade.
 
-#### Estou em aprendizado contínuo, buscando absorver e passar conhecimento em tecnologia e outros temas que podem me levar a ser um profissional com um perfil cada vez mais dinâmico e pronto para novos desafios que o mundo da tecnologia propõe.
+#### Estou em aprendizado contínuo, buscando absorver e passar conhecimento em tecnologia e outros temas que podem gerar valor e me levar a ser um profissional com um perfil cada vez mais dinâmico e pronto para novos desafios que o mundo da tecnologia propõe.
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Expo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
