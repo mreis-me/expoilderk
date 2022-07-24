@@ -14,8 +14,6 @@
   <img align="center" alt="Expo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-##
-
 <div align="center"> 
   
 [![mreis-me's 42 stats](https://badge42.vercel.app/api/v2/cl5ymtn6o002509l5fcxufzsj/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
